@@ -1,2 +1,3 @@
 # Oldy-Goldy-App
-It's my college OLX type app built through Android Studio
+It's an OLX type App for androids built through Android Studio which is for exchanging products , ecommerce. 
+It has an special feature of map integration using API Google maps.
