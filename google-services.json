@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79228452738",
+    "project_id": "oldy-goldy-311ca",
+    "storage_bucket": "oldy-goldy-311ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79228452738:android:420639992db0008c25d99b",
+        "android_client_info": {
+          "package_name": "com.example.myfinalloginpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYDC_K_NtfgLET8fqaj3LmWVgqSIEoXjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
