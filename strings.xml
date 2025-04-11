@@ -1,0 +1,116 @@
+<resources>
+    <!--HOME page strings-->
+    <string name="app_name">Oldy Goldy</string>
+    <string name="suggestions">Suggestions</string>
+    <string name="OG">OG</string>
+    <string name="Shri_Shanta_Niveshnam">Shri_Shanta_Niveshnam</string>
+    <string name="search_in_oldy_goldy_com">search_in_oldy_goldy_com</string>
+    <string name="others">others</string>
+    <string name="Book">Book</string>
+    <string name="Cycle">Cycle</string>
+    <string name="Trunk">Trunk</string>
+    <string name="Fan">Fan</string>
+    <string name="caption">caption\n</string>
+    <string name="descrip">descrip</string>
+    <string name="loc">loc</string>
+    <string name="description">description</string>
+    <string name="Advertisement">Advertisement</string>
+    <string name="home">Home</string>
+    <string name="List">List</string>
+    <string name="Post">Post</string>
+    <string name="Setting">Settings</string>
+    <string name="Profile">Profile</string>
+    <string name="my_list">My List</string>
+
+    <!--POST page strings-->
+    <string name="enter_price">Enter price</string>
+    <string name="select_item">Select Item</string>
+    <string name="caption1">Caption</string>
+    <string name="enter_caption">Enter caption</string>
+    <string name="price">Price</string>
+    <string name="description1">Description</string>
+    <string name="enter_description">Enter description</string>
+    <string name="selected_image">Selected Image</string>
+    <string name="selected_image_preview">Selected image preview</string>
+    <string name="add_image">Add Image</string>
+    <string name="post1">Post</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="btnlogin">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an Account?</string>
+    <string name="signup">SignUp</string>
+
+        <string name="hello">Hello</string>
+        <string name="settings">Settings</string>
+        <string name="Settings">SETTINGS</string>
+        <string name="search_for">Search For......</string>
+        <string name="notifications">Notifications</string>
+        <string name="night_mode">Night Mode</string>
+        <string name="account">Account</string>
+        <string name="privacy_and_security">Privacy and Security</string>
+        <string name="help_and_support">Help and Support</string>
+        <string name="invite_a_friend">Invite a friend</string>
+        <string name="report">Report</string>
+        <string name="log_out">Log Out</string>
+        <string name="Account">Account</string>
+        <string name="language">Language</string>
+        <string name="todo">todo</string>
+        <string name="buy_product">Buy Product</string>
+        <string name="chat">Chat</string>
+        <string name="my_orders">My Orders</string>
+        <string name="sell_product">Sell Product</string>
+        <string name="view_cart">View Cart</string>
+        <string name="help">Help</string>
+        <string name="title_activity_settings2">SettingsActivity2</string>
+
+        <!-- Preference Titles -->
+        <string name="messages_header">Messages</string>
+        <string name="sync_header">Sync</string>
+
+        <!-- Messages Preferences -->
+        <string name="signature_title">Your signature</string>
+        <string name="reply_title">Default reply action</string>
+
+        <!-- Sync Preferences -->
+        <string name="sync_title">Sync email periodically</string>
+        <string name="attachment_title">Download incoming attachments</string>
+        <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+        <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <!-- Product page strings -->
+    <string name="background_image">Background Image</string>
+    <string name="category_name">Category Name</string>
+    <string name="Password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="smart_id">Smart ID</string>
+    <string name="name">Enter your name</string>
+    <string name="email">Personal email address</string>
+    <string name="phone_no">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="already_have_an_account">Already have an account. Login</string>
+
+    <!-- Findermap strings -->
+    <string name="distance_will_be_shown_here">Distance will be shown here</string>
+    <string name="show_path">Show Path</string>
+    <string name="select_destination">Select Destination:</string>
+    <string name="tap_to_view_all_hostels">Tap to view full map</string>
+    <string name="enter_student_id">Enter Student id</string>
+    <string name="write_here">Write Here....</string>
+    <string name="reason_for_reporting">Reason for Reporting:</string>
+    <string name="student_id_of_the_person_you_want_to_report">Student ID of the Person You Want to Report:</string>
+    <string name="your_student_id">Your Student ID:</string>
+    <string name="report_user">Report User</string>
+    <string name="submit_report">Submit Report</string>
+    <string name="write_to_us_oldy_goldy055_gmail_com">Write to us: oldy.goldy055@gmail.com</string>
+    <string name="facing_issues_contact_us">Facing Issues, Contact Us:</string>
+    <string name="call_us_xxxx_xxx_xxx_mon_sun_5pm_8pm">Call Us: xxxx xxx xxx [Mon - Sun(5pm - 8pm)]</string>
+    <string name="_999">_999</string>
+    <string name="product_name">product_name</string>
+    <string name="old_password">Old Password\n</string>
+    <string name="new_password">New Password\n</string>
+    <string name="confirm_password">Confirm Password\n</string>
+    <string name="create_password">Create Password</string>
+
+
+</resources>
