@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "277179144818",
+    "firebase_url": "https://upload-retrieve-35b65-default-rtdb.firebaseio.com",
+    "project_id": "upload-retrieve-35b65",
+    "storage_bucket": "upload-retrieve-35b65.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277179144818:android:9794b4806132d8b24c80eb",
+        "android_client_info": {
+          "package_name": "com.example.signuploginrealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6oXhKLin4t6ST9z_P5SbWMRXpwRDZYVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277179144818:android:5541174a184500b74c80eb",
+        "android_client_info": {
+          "package_name": "com.example.uploadretrieveimage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6oXhKLin4t6ST9z_P5SbWMRXpwRDZYVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
